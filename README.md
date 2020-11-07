@@ -1,2 +1,2 @@
 # tryouts
-Repository to host sample code &amp; poc's
+Repository to host sample C# code &amp; poc's
